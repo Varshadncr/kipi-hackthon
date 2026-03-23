@@ -157,7 +157,7 @@ This project evolved through 3 iterations, each adding sophistication:
 │   └── sql/
 │       └── 01_setup_environment.sql     # Training view setup
 │
-└── revenue_dashboard.py                 # Standalone dashboard
+
 ```
 
 ---
